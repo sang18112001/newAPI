@@ -1,5 +1,25 @@
 {
   "account": [
-    
+    {
+      "name": "Nguyễn Tự Sang",
+      "email": "nguyentusang18112001@gmail.com",
+      "password": "18112001",
+      "checkSignIn": false,
+      "id": 1
+    },
+    {
+      "name": "Nguyễn Tự Sang 1",
+      "email": "tusang201@gmail.com",
+      "password": "18112001",
+      "checkSignIn": false,
+      "id": 2
+    },
+    {
+      "name": "Nguyễn Tự Sang 2",
+      "email": "tusang22222@gmail.com",
+      "password": "18112001",
+      "checkSignIn": false,
+      "id": 3
+    }
   ]
 }
