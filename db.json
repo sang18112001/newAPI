@@ -25,18 +25,29 @@
   "comments": [
     {
       "id": 505642,
-      "user": "Nguyễn Tự Sang",
-      "comment": "Nhận được đặt hàng thành công"
+      "comment": [
+        {
+          "user": "Nguyễn Tự Sang",
+          "comment": "Bàdsa"
+        },
+        {
+          "user": "Nguyễn Tự Sang 1",
+          "comment": "ddadsadsasd"
+        }
+      ]
     },
     {
       "id": 594767,
-      "user": "Nguyễn Tự Sang 1",
-      "comment": "Shazami"
-    },
-    {
-      "id": 505642,
-      "user": "Nguyễn Tự Sang 2",
-      "comment": "Nhận được đặt hàng thành công"
+      "comment": [
+        {
+          "user": "Nguyễn Tự Sang 2",
+          "comment": "fdsafdsa"
+        },
+        {
+          "user": "Nguyễn Tự Sang 1",
+          "comment": "fdsaasd"
+        }
+      ]
     }
   ]
 }
