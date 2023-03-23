@@ -28,11 +28,11 @@
       "comment": [
         {
           "user": "Nguyễn Tự Sang",
-          "comment": "Bàdsa"
+          "cmt": "Bàdsa"
         },
         {
           "user": "Nguyễn Tự Sang 1",
-          "comment": "ddadsadsasd"
+          "cmt": "ddadsadsasd"
         }
       ]
     },
@@ -41,11 +41,11 @@
       "comment": [
         {
           "user": "Nguyễn Tự Sang 2",
-          "comment": "fdsafdsa"
+          "cmt": "fdsafdsa"
         },
         {
           "user": "Nguyễn Tự Sang 1",
-          "comment": "fdsaasd"
+          "cmt": "fdsaasd"
         }
       ]
     }
