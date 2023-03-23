@@ -1,5 +1,5 @@
 {
-  "account": [
+  "accounts": [
     {
       "name": "Nguyễn Tự Sang",
       "email": "nguyentusang18112001@gmail.com",
@@ -20,6 +20,13 @@
       "password": "18112001",
       "checkSignIn": false,
       "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 505642,
+      "user": "Nguyễn Tự Sang",
+      "comment": "Nhận được đặt hàng thành công"
     }
   ]
 }
