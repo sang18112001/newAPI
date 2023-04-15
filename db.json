@@ -1,60 +1,64 @@
 {
-  "accounts": [
+  "genres": [
     {
-      "name": "Nguyễn Tự Sang",
-      "email": "nguyentusang18112001@gmail.com",
-      "password": "18112001",
-      "checkSignIn": false,
-      "id": 1
+      "id": 1,
+      "genre_name": "Action",
+      "genre_path": "./assets/image/genres/action.png"
     },
     {
-      "name": "Nguyễn Tự Sang 1",
-      "email": "tusang201@gmail.com",
-      "password": "18112001",
-      "checkSignIn": false,
-      "id": 2
+      "id": 2,
+      "genre_name": "Drama",
+      "genre_path": "./assets/image/genres/drama.png"
     },
     {
-      "name": "Nguyễn Tự Sang 2",
-      "email": "tusang22222@gmail.com",
-      "password": "18112001",
-      "checkSignIn": false,
-      "id": 3
+      "id": 3,
+      "genre_name": "Fantasy",
+      "genre_path": "./assets/image/genres/fantasy.png"
     },
     {
-      "name": "Nguyễn Tự Sang 3",
-      "email": "NST18112001@gmail.com",
-      "password": "18112001",
-      "checkSignIn": false,
-      "id": 3
-    }
-  ],
-  "comments": [
-    {
-      "id": 505642,
-      "comment": [
-        {
-          "user": "Nguyễn Tự Sang",
-          "cmt": "asdfqwer"
-        },
-        {
-          "user": "Nguyễn Tự Sang 1",
-          "cmt": "ddadsadsasd"
-        }
-      ]
+      "id": 4,
+      "genre_name": "Horror",
+      "genre_path": "./assets/image/genres/horror.png"
     },
     {
-      "id": 594767,
-      "comment": [
-        {
-          "user": "Nguyễn Tự Sang 2",
-          "cmt": "fdsafdsa"
-        },
-        {
-          "user": "Nguyễn Tự Sang 1",
-          "cmt": "fdsaasd"
-        }
-      ]
+      "id": 5,
+      "genre_name": "Music",
+      "genre_path": "./assets/image/genres/music.png"
+    },
+    {
+      "id": 6,
+      "genre_name": "Mystery",
+      "genre_path": "./assets/image/genres/mystery.png"
+    },
+    {
+      "id": 7,
+      "genre_name": "Romance",
+      "genre_path": "./assets/image/genres/romantic.png"
+    },
+    {
+      "id": 8,
+      "genre_name": "Science Fiction",
+      "genre_path": "./assets/image/genres/sci-fic.png"
+    },
+    {
+      "id": 9,
+      "genre_name": "Thriller",
+      "genre_path": "./assets/image/genres/thrill.png"
+    },
+    {
+      "id": 10,
+      "genre_name": "War",
+      "genre_path": "./assets/image/genres/war.png"
+    },
+    {
+      "id": 11,
+      "genre_name": "Western",
+      "genre_path": "./assets/image/genres/western.png"
+    },
+    {
+      "id": 12,
+      "genre_name": "Comedy",
+      "genre_path": "./assets/image/genres/comedy.png"
     }
   ]
 }
