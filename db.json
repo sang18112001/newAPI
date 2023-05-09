@@ -1,62 +1,62 @@
 {
   "genres": [
     {
-      "id": 1,
+      "id": 28,
       "genre_name": "Action",
       "genre_path": "./assets/image/genres/action.png"
     },
     {
-      "id": 2,
+      "id": 18,
       "genre_name": "Drama",
       "genre_path": "./assets/image/genres/drama.png"
     },
     {
-      "id": 3,
+      "id": 14,
       "genre_name": "Fantasy",
       "genre_path": "./assets/image/genres/fantasy.png"
     },
     {
-      "id": 4,
+      "id": 27,
       "genre_name": "Horror",
       "genre_path": "./assets/image/genres/horror.png"
     },
     {
-      "id": 5,
+      "id": 10402,
       "genre_name": "Music",
       "genre_path": "./assets/image/genres/music.png"
     },
     {
-      "id": 6,
+      "id": 9648,
       "genre_name": "Mystery",
       "genre_path": "./assets/image/genres/mystery.png"
     },
     {
-      "id": 7,
+      "id": 10749,
       "genre_name": "Romance",
       "genre_path": "./assets/image/genres/romantic.png"
     },
     {
-      "id": 8,
+      "id": 878,
       "genre_name": "Science Fiction",
       "genre_path": "./assets/image/genres/sci-fic.png"
     },
     {
-      "id": 9,
+      "id": 53,
       "genre_name": "Thriller",
       "genre_path": "./assets/image/genres/thrill.png"
     },
     {
-      "id": 10,
+      "id": 10752,
       "genre_name": "War",
       "genre_path": "./assets/image/genres/war.png"
     },
     {
-      "id": 11,
+      "id": 37,
       "genre_name": "Western",
       "genre_path": "./assets/image/genres/western.png"
     },
     {
-      "id": 12,
+      "id": 35,
       "genre_name": "Comedy",
       "genre_path": "./assets/image/genres/comedy.png"
     }
