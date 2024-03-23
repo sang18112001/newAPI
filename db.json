@@ -1,73 +1,64 @@
 {
-  "cards": [
+  "genres": [
     {
-      "_id": "64afba1ce9ddcd3b8fa1086f",
-      "title": "sang12345",
-      "columns": [
-        {
-          "_id": "64aff3a935b2f8b905ed8ac7",
-          "boardId": "64afba1ce9ddcd3b8fa1086f",
-          "title": "column_12"
-        },
-        {
-          "_id": "64b00c6a8181b245ee3fbaf8",
-          "boardId": "64afba1ce9ddcd3b8fa1086f",
-          "title": "column_3"
-        }
-      ]
+      "id": 28,
+      "genre_name": "Action",
+      "genre_path": "../../../assets/image/genres/action.png"
     },
     {
-      "_id": "64b006eb8181b245ee3fbaf6",
-      "title": "sang1234",
-      "columns": [
-        {
-          "_id": "64b0b50f24a9aecd7bab399b",
-          "title": "dwqwddwqdw",
-          "boardId": "64b006eb8181b245ee3fbaf6"
-        },
-        {
-          "_id": "64b0b56f24a9aecd7bab399c",
-          "title": "dwqqddw",
-          "boardId": "64b006eb8181b245ee3fbaf6"
-        }
-      ]
+      "id": 18,
+      "genre_name": "Drama",
+      "genre_path": "../../../assets/image/genres/drama.png"
     },
     {
-      "_id": "64b00c648181b245ee3fbaf7",
-      "title": "sang143deedwd",
-      "columns": [
-        {
-          "_id": "64b00cba8181b245ee3fbafc",
-          "boardId": "64b00c648181b245ee3fbaf7",
-          "title": "column_7"
-        },
-        {
-          "_id": "64b28455a8e2cb917e615b3b",
-          "title": "fwefe",
-          "boardId": "64b00c648181b245ee3fbaf7"
-        }
-      ]
+      "id": 14,
+      "genre_name": "Fantasy",
+      "genre_path": "../../../assets/image/genres/fantasy.png"
     },
     {
-      "_id": "64b2864da8e2cb917e615b44",
-      "title": "fdedwq",
-      "columns": [
-        {
-          "_id": "64b287caa8e2cb917e615b4a",
-          "title": "cewfew",
-          "boardId": "64b2864da8e2cb917e615b44"
-        }
-      ]
+      "id": 27,
+      "genre_name": "Horror",
+      "genre_path": "../../../assets/image/genres/horror.png"
     },
     {
-      "_id": "64b2877ba8e2cb917e615b48",
-      "title": "dwqdqw",
-      "columns": []
+      "id": 10402,
+      "genre_name": "Music",
+      "genre_path": "../../../assets/image/genres/music.png"
     },
     {
-      "_id": "64b287c5a8e2cb917e615b49",
-      "title": "fqfdwe",
-      "columns": []
+      "id": 9648,
+      "genre_name": "Mystery",
+      "genre_path": "../../../assets/image/genres/mystery.png"
+    },
+    {
+      "id": 10749,
+      "genre_name": "Romance",
+      "genre_path": "../../../assets/image/genres/romantic.png"
+    },
+    {
+      "id": 878,
+      "genre_name": "Science Fiction",
+      "genre_path": "../../../assets/image/genres/sci-fic.png"
+    },
+    {
+      "id": 53,
+      "genre_name": "Thriller",
+      "genre_path": "../../../assets/image/genres/thrill.png"
+    },
+    {
+      "id": 10752,
+      "genre_name": "War",
+      "genre_path": "../../../assets/image/genres/war.png"
+    },
+    {
+      "id": 37,
+      "genre_name": "Western",
+      "genre_path": "../../../assets/image/genres/western.png"
+    },
+    {
+      "id": 35,
+      "genre_name": "Comedy",
+      "genre_path": "../../../assets/image/genres/comedy.png"
     }
   ]
 }
